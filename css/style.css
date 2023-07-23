@@ -1,0 +1,49 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html, body {
+	height: 100%;
+}
+
+body {
+	background-color: #000;
+}
+
+.info {
+	text-align: center;
+	background-color: #1c09ad;
+	padding: 15px;
+	position: relative;
+	width: 100%;
+	top: 0;
+	left: 0;
+	border-bottom: 3px solid #ccc;
+}
+
+.info h1 {
+	color: #fff;
+	font-family: cursive;
+	font-size: 25px;
+}
+
+.info p {
+	color: #ccc;
+	margin-top: 5px;
+}
+
+.lampadas {
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 1.5%;
+}
+
+.lampadas img {
+	margin-top: 5px;
+	width: 50vh;
+	height: auto;
+}
+
+
